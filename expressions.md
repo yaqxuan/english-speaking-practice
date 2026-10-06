@@ -4,6 +4,7 @@ at best
 at the right moment
 be down for
 bounce back
+break through
 bring up
 brush past
 build a case
@@ -14,6 +15,7 @@ check in
 click
 come across
 come to mind
+come up
 come up with
 creep in
 crush
@@ -64,6 +66,7 @@ keep score
 keep up with
 kind of
 locked in
+look forward to
 look into
 look up
 make sense
@@ -86,6 +89,7 @@ reach out to
 rough around the edges
 run out of
 second-guess
+set up
 settle down
 show up
 sit
