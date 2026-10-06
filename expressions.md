@@ -26,6 +26,7 @@ dive in
 draft
 drop in
 ducks in a row
+edge
 end up -ing
 epiphany
 fair enough
@@ -58,6 +59,7 @@ heart and soul
 hectic
 hit
 hit the brakes
+in a mood
 in one's head
 in one's own case
 in over one's head
@@ -69,6 +71,7 @@ locked in
 look forward to
 look into
 look up
+make a pact
 make sense
 negotiate
 no worries
@@ -116,5 +119,6 @@ walk away
 walk by
 wear down
 what if
+wide-eyed
 wing it
 work out
