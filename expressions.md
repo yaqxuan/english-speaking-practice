@@ -149,3 +149,33 @@ wing it
 work at
 work out
 wrap up
+drop by
+cut down
+go for it
+stand out
+hold off
+get around to
+deal with
+keep in mind
+go ahead
+stop by
+go off
+hold up
+rely on
+calm down
+chip in
+back off
+open up
+take over
+set one's sights
+put pen to paper
+work in progress
+pipe dream
+cross out
+just because
+crack a joke
+live vicariously
+long shot
+go all in
+someday never comes
+keep up
