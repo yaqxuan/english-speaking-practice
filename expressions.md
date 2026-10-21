@@ -179,3 +179,57 @@ long shot
 go all in
 someday never comes
 keep up
+around this time of year
+hand over
+lie open
+keep doing
+as if
+look at
+look back on
+make something happen
+pencil in
+blur together
+stick with
+walk past
+write a line
+that's all it takes
+take time off
+in good shape
+cheer on
+make a difference
+fall behind
+pick up the pace
+speed up
+easy on
+along the way
+give someone a boost
+the thing is
+for the long haul
+come along
+obsessed with
+sum up
+for the sake of
+turn into
+wake up to
+doable
+lifelong
+tide over
+head out
+knock off
+knock it off
+settle in
+churn out
+take a rain check
+hit the road
+run across
+let go
+pass on
+wear out
+crack up
+freak out
+chill out
+catch on
+pass out
+doze off
+space out
+blow off
