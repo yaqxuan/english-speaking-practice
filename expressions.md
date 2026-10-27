@@ -233,3 +233,7 @@ pass out
 doze off
 space out
 blow off
+drag on
+sneak out
+speak up
+brush off
