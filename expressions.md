@@ -237,3 +237,8 @@ drag on
 sneak out
 speak up
 brush off
+act up
+warm up to
+cut in
+phase out
+talk into
