@@ -242,3 +242,6 @@ warm up to
 cut in
 phase out
 talk into
+come in handy
+look up to
+stick to
