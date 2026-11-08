@@ -27,7 +27,7 @@ crush — 对某人的心动、迷恋或暗恋
 cut in front of — 突然插到别人前面，尤其是开车时
 cut off — 开车突然插到别人前面；加塞；打断别人说话
 dedicate oneself to — 投身于；致力于某事
-dive in — 立即投入；开始做
+dive in — 开吃；趁热动筷子；立即投入；毫不犹豫地开始做
 draft — 草稿；尚未定稿或发送的版本
 drop in — 顺道拜访
 ducks in a row — 事情已安排妥当；准备就绪
@@ -35,7 +35,7 @@ edge — 锐气；锋芒；让人占优势的状态
 end up -ing — 最终做了某事；结果变成某种情况
 epiphany — 突然出现的深刻领悟；顿悟
 fair enough — 有道理；可以接受
-fall apart — 崩溃；瓦解；关系破裂
+fall apart — （计划、安排等）泡汤，彻底乱套；（物品或食物）散架，碎裂，破损；（关系、婚姻或友谊）破裂
 fall asleep — 睡着；进入睡眠
 fall through — 落空；未能实现
 figure out — 弄明白；想出办法
@@ -264,3 +264,8 @@ run late — 要迟到了；比原定时间晚
 start over — 从头再来；推倒重来
 try on — 试穿（衣服、鞋帽）
 leave out — 漏掉；省去（某部分或细节）；冷落某人；没带某人一起
+bump into — 偶然遇见；不期而遇；不小心撞到（人或物体）
+kick off — 开始；拉开（聚会、活动或周末的）序幕；（不用手）一脚蹬掉、踢掉（鞋子）
+catch up on — 补上（之前落下的觉、剧集、家务或阅读）
+wind down — （忙碌一天后）慢慢放松下来，平复身心准备休息
+pitch in — 搭把手；大家一起出力（或凑份子）帮忙
